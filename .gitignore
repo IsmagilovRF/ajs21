@@ -1,5 +1,8 @@
-dist/ 
 .DS_Store
+dist/index.html
+dist/main.css
+dist/main.js
+.vscode/settings.json
 # Logs
 logs
 *.log
