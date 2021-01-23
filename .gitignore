@@ -1,8 +1,6 @@
 .DS_Store
-dist/index.html
-dist/main.css
-dist/main.js
-.vscode/settings.json
+dist/
+.vscode/
 # Logs
 logs
 *.log
